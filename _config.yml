@@ -1,7 +1,7 @@
 # Setup
 title: Jiao Zhao
 description: Applied Geoinformatics, University of Salzburg
-url: https://anganiang.github.io/
+url: https://superjiojio.github.io/
 avatar: /me.jpg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: Yanxiang Wang
+  username: Jiao Zhao
   card: summary
 logo: logo.png
 social:
-  name: Yanxiang Wang
+  name: Jiao Zhao
   links:
     - https://twitter.com/
-    - https://github.com/anganiang
+    - https://superjiojio.github.io/
 google_site_verification: xxxxx
 lang: en
 
